@@ -17,15 +17,15 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>ent.Trucker-Path-Pro</string>
+          <string>com.Trucker-Path-Pro</string>
           <key>bundle-version</key>
           <string>3.4.4</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>TPP Dev</string>
+          <string>Trucker Path</string>
           <key>title</key>
-          <string>TPP Dev</string>
+          <string>Trucker Path</string>
         </dict>
       </dict>
     </array>
